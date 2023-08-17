@@ -1,3 +1,4 @@
 aws solution architecture
 java
 devops
+logic to send email
